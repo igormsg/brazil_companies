@@ -1,0 +1,17 @@
+[
+{"name": "flag_table","type": "INTEGER","mode": "NULLABLE"},
+{"name": "flag_full","type": "STRING","mode": "NULLABLE"},
+{"name": "flag_refresh","type": "STRING","mode": "NULLABLE"},
+{"name": "company_id","type": "STRING","mode": "NULLABLE"},
+{"name": "partner_id","type": "STRING","mode": "NULLABLE"},
+{"name": "partner_name","type": "STRING","mode": "NULLABLE"},
+{"name": "partner_document","type": "STRING","mode": "NULLABLE"},
+{"name": "partner_type_id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "partner_percentage","type": "STRING","mode": "NULLABLE"},
+{"name": "partner_signup_date","type": "DATE","mode": "NULLABLE"},
+{"name": "country_id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "country","type": "STRING","mode": "NULLABLE"},
+{"name": "partner_legal_document","type": "STRING","mode": "NULLABLE"},
+{"name": "partner_legal_rep","type": "STRING","mode": "NULLABLE"},
+{"name": "flag_partner_legal_rep","type": "STRING","mode": "NULLABLE"}
+]
